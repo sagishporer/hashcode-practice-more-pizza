@@ -12,3 +12,5 @@ Solution score:  1,505,004,616
 * C: 4,500
 * D: 1,000,000,000
 * E: 505,000,000
+
+Please ignore code style. The objective was to complete the task as fast as possible.
