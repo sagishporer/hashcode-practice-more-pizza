@@ -1,5 +1,9 @@
 # Hash Code 2020 practice problem solution: More Pizza
 
+[Problem statement](https://github.com/senesh-deshan/Google-Hash-Code-2020/tree/v3/Problem)
+
+[Input files](https://github.com/senesh-deshan/Google-Hash-Code-2020/tree/v3/Input)
+
 Algorithm type: greedy + optimizations:
 1. Sort pizzas, largest number of slices first.
 2. Add pizzas while there's room.
